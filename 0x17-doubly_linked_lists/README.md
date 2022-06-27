@@ -1,4 +1,4 @@
-i# C - Doubly linked lists
+# C - Doubly linked lists
 Project done during Software Engineering studies at ALX Software Engineering School.
 
 ## Technologies
